@@ -34,6 +34,6 @@
 
 * 论文代码跑通的输出结果见 ` paper_pyTorch_base_trivaQa.txt`
 
-![image-20220424101331210](E:\Codes\Longformer_paddle\README.assets\image-20220424101331210.png)
+![image](https://github.com/BaiEJi/Longformer_paddle/blob/main/README.assets/image-20220424101303187.png)
 
-![image-20220424101303187](E:\Codes\Longformer_paddle\README.assets\image-20220424101303187.png)
+![image](https://github.com/BaiEJi/Longformer_paddle/blob/main/README.assets/image-20220424101331210.png)
