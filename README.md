@@ -16,7 +16,7 @@
   # 我在显卡上使用batchsize=4 跑通了代码
   # 一个epoch是139105个条目， 平均每秒处理1.6个条目
   # 跑完一个epoch + 验证 大概需要 24 个小时
-  # 由loss数据可以看到，在训练过程中loss是由明显的下降趋势的
+  # 由loss数据可以看到，在训练过程中loss是有明显的下降趋势的
   # 经过一个epoch， loss值降至0.1至0.2之间
   # 由验证集的F1值可以看到，是0.694 -> 0.709, 是逐步上升向验收标准靠拢的
   # base model 在 trivaQa数据集上的表现符合论文中所描述的
@@ -34,3 +34,6 @@
 
 * 论文代码跑通的输出结果见 ` paper_pyTorch_base_trivaQa.txt`
 
+![image-20220424101331210](E:\Codes\Longformer_paddle\README.assets\image-20220424101331210.png)
+
+![image-20220424101303187](E:\Codes\Longformer_paddle\README.assets\image-20220424101303187.png)
